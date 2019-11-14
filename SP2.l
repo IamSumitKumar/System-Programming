@@ -1,7 +1,7 @@
 %{
     #include<stdio.h>
     charstr[10];
-    inti=0;
+    int i=0;
 %}
 
 %%
