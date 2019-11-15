@@ -1,8 +1,8 @@
 %{
     #include<stdio.h>
     #include<string.h>
-    charch[8];
-    inti,j;
+    char ch[8];
+    int i,j;
 %}
 
 char [a-zA-Z]
@@ -22,3 +22,4 @@ int main()
 	yylex();
 	return 0;
 }
+/*Resource: webpage- 'tutorialsduniya.com'*/
